@@ -1,0 +1,20 @@
+name: FFA
+author: TrenicHD
+api: [3.0.0, 4.0.0]
+main: TrenicHD\Main
+description: FFA Plugin by TrenicHD
+version: 1.0.0
+website: https://www.youtube.com/TrenicHD
+
+commands:
+  hub:
+    description: §cZurück zum Spawn
+  spectate:
+    description: §cSchaue zu!
+  leave:
+    description: §cVerlasse denn Spectater mode!
+
+
+permissions:
+  hub:
+    default: true

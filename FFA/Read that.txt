@@ -1,0 +1,31 @@
+##############Deutsch#############
+1: Entpack das Plugin.
+2: Lade dir eine Welt runter.
+3: Geh in server.properties.
+4: Geh auf Spawn-Protection, und stelle es auf 5-6 (oder wie auch immer c:).
+5: geh auf Level-Name, und schreib da deine Welt-name rein!
+6: starte denn Server, Viel Spaß.
+###############English#####################
+1: Unzip the plugin.
+2: Download a world.
+3: Go to server.properties.
+4: Go to Spawn Protection and set it to 5-6 (or whatever c :).
+5: go to level name and write your world name in there!
+6: start the server, have fun.
+##############Latein################
+I: Unzip plugin in.
+II, Download in mundum.
+III: Ite ad server.properties.
+IV: Ite ad excludunt Praesidium et pone eam ad 5-6 (vel quidquid c :).
+V, est ad planum orbis terrarum nomen tuum, et scribe in nomen est?
+VI, incipit a servo, habere fun.
+###############Japanisch##############
+1：プラグインを解凍します。
+2：世界をダウンロードします。
+3：server.propertiesに移動します。
+4：Spawn Protectionに移動し、5〜6（またはc :)に設定します。
+5：レベル名に行き、そこにあなたの世界名を書いてください！
+6：サーバーを起動し、楽しんでください。
+#######################################
+Bye <3
+
